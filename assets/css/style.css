@@ -1,0 +1,32 @@
+.layut-site{
+    display: flex;
+    align-items: center;
+    padding-block: 70px;
+}
+
+.layut-site img{
+    padding-right: 50px;
+}
+
+.txt{
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    text-align: center; 
+}
+
+.txt h1{
+
+}
+
+.layout-desc{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.layout-desc img{
+    padding: 100px;
+    width: 350px;
+}
+

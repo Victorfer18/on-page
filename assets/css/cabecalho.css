@@ -1,0 +1,50 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container{
+   width: 1200px; 
+   margin: 0 auto;
+}
+
+.inner--banner{
+    display: block;
+    background: linear-gradient(#0c1741, #0c1741), linear-gradient(#273567, #273567), url(../img/imgs/Captura3.PNG);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: 65% 700px, 50% 514px, 212px 95px;
+    background-position: left top, right top, 60% 714px;
+    /* background-image: url(../img/imgs/Captura3.PNG); */
+}
+
+.grid-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+.banner-footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.banner1 h1, h2, button, p{
+    color: #f9faff;
+}
+
+.banner1 h1{
+    font-size: 80px;
+}
+
+.banner-footer h2{
+    font-size: 40px;
+}
+
+.banner1 b {
+    color: #5dbdee;
+}
+
+.search{
+}
+
+.search input{
+}
