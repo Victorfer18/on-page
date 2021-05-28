@@ -5,6 +5,7 @@
 }
 
 .layut-site img{
+    margin-right: 140px;
     padding-right: 50px;
 }
 
@@ -19,14 +20,27 @@
 
 }
 
+.space{
+    padding: 50px;
+}
+
 .layout-desc{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    justify-content: space-evenly;
+    /* grid-template-columns: 1fr 1fr 1fr; */
 
 }
 
 .layout-desc img{
-    padding: 100px;
-    width: 350px;
+    /* height: 200px; */
+    width: 100%;
+}
+
+.layout-desc p{
+    color: #73757c;
+}
+
+.desc{
+    margin-right: 22px;
 }
 
