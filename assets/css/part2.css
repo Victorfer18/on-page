@@ -1,3 +1,8 @@
+.divisao{
+    background-color: #0c1741;
+    padding: 330px;
+}
+
 .layout-txt{
     display: flex;
     justify-content: center;
@@ -51,3 +56,39 @@
     font-size: 16px;
 }
 
+.desc-subscrib{
+    margin-top: 30px;
+}
+
+.desc-subscrib a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.desc-subscrib button{
+    padding: 40px;
+    padding-right: 350px;
+    border-radius: 60px;
+    font-size: 20px;
+    border: none;
+}
+
+.cor1:hover{
+    background-color: #0daff5;
+}
+
+.cor2:hover{
+    background-color: #7f44ee;
+}
+
+.desc-subscrib img{
+    float: right;
+}
+
+.cor1{
+    background-color: #52ccff;
+}
+
+.cor2{
+    background-color: #925bf6;
+}

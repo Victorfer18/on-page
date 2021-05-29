@@ -1,0 +1,15 @@
+.botton{
+    background-color: #0c1741;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.botton h1{
+    color: #f9faff;
+    font-size: 80px;
+}
+
+.search{
+    display: flex;
+    text-align: center;
+}
